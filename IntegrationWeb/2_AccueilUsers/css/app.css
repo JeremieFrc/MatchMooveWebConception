@@ -43,7 +43,7 @@ header,section,footer{
 		$Generique container
 \*-------------------------------------------*/
 .l-container{
-	width: 60%; /*modified function size container calcul on 2000 px size page */
+	width: 80%; /*modified function size container calcul on 2000 px size page */
 	height: 100%;	
 	
 	margin: 0 auto;
